@@ -1,7 +1,7 @@
 av==9.2.0
 keras
 matplotlib==3.5.1
-mediapipe==0.8.9.1
+mediapipe
 numpy==1.20.3
 Pillow==9.2.0
 requests==2.26.0
